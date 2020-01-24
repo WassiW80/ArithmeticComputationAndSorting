@@ -1,5 +1,4 @@
 #!/bin/bash -x
-
 declare -A resultDictionary
 read -p "Enter the value of a: " a
 read -p "Enter the value of b: " b
@@ -21,7 +20,6 @@ done
 
 echo ${resultArray[@]}
 length=${#resultArray[@]}
-echo $length
 #Descending Order
 function descendingOrder() {
 	for((i=1;i<$length;i++))
@@ -41,3 +39,24 @@ function descendingOrder() {
 
 echo "Descending Order"
 descendingOrder
+#Ascending Order
+function ascendingOrder() {
+   for((i=1;i<$length;i++))
+   do
+      for((j=i+1;j<=$length;j++))
+      do
+         if [[ ${resultArray[i]%.*} -gt ${resultArray[j]%.*} ]]
+         then
+            temp=${resultArray[i]}
+            resultArray[i]=${resultArray[j]}
+            resultArray[j]=$temp
+         fi
+      done
+   done
+   echo ${resultArray[@]}
+}
+
+echo "Ascending Order"
+ascendingOrder
+
+
