@@ -18,3 +18,26 @@ for((counter=1;counter<=${#resultDictionary[@]};counter++))
 do
 	resultArray[$counter]=${resultDictionary[result"$((counter))"]}
 done
+
+echo ${resultArray[@]}
+length=${#resultArray[@]}
+echo $length
+#Descending Order
+function descendingOrder() {
+	for((i=1;i<$length;i++))
+	do
+		for((j=i+1;j<=$length;j++))
+	  	do
+	      if [[ ${resultArray[i]%.*} -lt ${resultArray[j]%.*} ]]
+	   	then
+	     	   temp=${resultArray[i]}
+	     	   resultArray[i]=${resultArray[j]}
+	     	   resultArray[j]=$temp
+	  		fi
+	  	done
+	done
+	echo ${resultArray[@]}
+}
+
+echo "Descending Order"
+descendingOrder
