@@ -14,4 +14,7 @@ resultDictionary[result2]=$result2
 resultDictionary[result3]=$result3
 resultDictionary[result4]=$result4
 
-
+for((counter=1;counter<=${#resultDictionary[@]};counter++))
+do
+	resultArray[$counter]=${resultDictionary[result"$((counter))"]}
+done
