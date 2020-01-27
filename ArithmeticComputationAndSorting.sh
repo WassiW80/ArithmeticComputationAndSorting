@@ -1,5 +1,5 @@
 #!/bin/bash -x
-
+#Reading value from user
 declare -A resultDictionary
 read -p "Enter the value of a: " a
 read -p "Enter the value of b: " b
@@ -27,14 +27,14 @@ function descendingOrder() {
 	for((i=1;i<$length;i++))
 	do
 		for((j=i+1;j<=$length;j++))
-	  	do
-	      if [[ ${resultArray[i]%.*} -lt ${resultArray[j]%.*} ]]
-	   	then
-	     	   temp=${resultArray[i]}
-	     	   resultArray[i]=${resultArray[j]}
-	     	   resultArray[j]=$temp
-	  		fi
-	  	done
+		do
+			if [[ ${resultArray[i]%.*} -lt ${resultArray[j]%.*} ]]
+			then
+				temp=${resultArray[i]}
+				resultArray[i]=${resultArray[j]}
+				resultArray[j]=$temp
+			fi
+		done
 	done
 	echo ${resultArray[@]}
 }
