@@ -1,0 +1,1000 @@
+ 1358  git add .
+ 1359  git commit -m "ADDED: new line"
+ 1360  git push origin master
+ 1361  git push origin features 
+ 1362  cat helloWorld.txt 
+ 1363  git checkout master 
+ 1364  git branch
+ 1365  git merge features 
+ 1366  cat helloWorld.txt 
+ 1367  git push origin master 
+ 1368  history | grey git > gitCommand.txt
+ 1369  history | grep git > gitCommand.txt
+ 1370  cd -
+ 1371  cd ~
+ 1372  cd W80/TerminalCommands/
+ 1373  ls
+ 1374  cd ..
+ 1375  ls
+ 1376  cd Functions/
+ 1377  clear
+ 1378  nano -T3 functionTest.sh
+ 1379  chmod +x functionTest.sh 
+ 1380  ./functionTest.sh 
+ 1381  clear
+ 1382  nano -T3 empWagesUsingFunction.sh
+ 1383  cd -
+ 1384  ls
+ 1385  cd ProgrammingConstructs/
+ 1386  ls
+ 1387  cd LoopRepetition/
+ 1388  ls
+ 1389  ./primeNumberInRange.sh 
+ 1390  ./primeNumber.sh 
+ 1391  cd ..
+ 1392  cd
+ 1393  ..
+ 1394  cd 
+ 1395  ..
+ 1396  cd ..
+ 1397  cd ~
+ 1398  cd W80/
+ 1399  ls
+ 1400  cd Functions/
+ 1401  ls
+ 1402  nano -T3 empWagesUsingFunction.sh
+ 1403  chmod +x empWagesUsingFunction.sh 
+ 1404  ./empWagesUsingFunction.sh 
+ 1405  nano -T3 empWagesUsingFunction.sh
+ 1406  ./empWagesUsingFunction.sh 
+ 1407  nano -T3 empWagesUsingFunction.sh
+ 1408  ./empWagesUsingFunction.sh 
+ 1409  nano -T3 empWagesUsingFunction.sh
+ 1410  ./empWagesUsingFunction.sh 
+ 1411  nano -T3 empWagesUsingFunction.sh
+ 1412  ./empWagesUsingFunction.sh 
+ 1413  nano -T3 palindromes.sh
+ 1414  chmod +x palindromes.sh
+ 1415  ./palindromes.sh 
+ 1416  nano -T3 palindromes.sh
+ 1417  ./palindromes.sh 
+ 1418  nano -T3 palindromes.sh
+ 1419  ./palindromes.sh 
+ 1420  nano -T3 palindromes.sh
+ 1421  ./palindromes.sh 
+ 1422  nano -T3 palindromes.sh
+ 1423  ./palindromes.sh 
+ 1424  nano -T3 palindromes.sh
+ 1425  ./palindromes.sh 
+ 1426  nano -T3 palindromes.sh
+ 1427  ./palindromes.sh 
+ 1428  nano -T3 palindromes.sh
+ 1429  ./palindromes.sh 
+ 1430  nano -T3 palindromes.sh
+ 1431  ./palindromes.sh 
+ 1432  nano -T3 palindromes.sh
+ 1433  ./palindromes.sh 
+ 1434  nano -T3 palindromes.sh
+ 1435  ./palindromes.sh 
+ 1436  clear
+ 1437  nano -T3 palindromes.sh
+ 1438  ./palindromes.sh 
+ 1439  nano -T3 palindromes.sh
+ 1440  ./palindromes.sh 
+ 1441  nano -T3 palindromes.sh
+ 1442  ./palindromes.sh 
+ 1443  nano -T3 palindromes.sh
+ 1444  ./palindromes.sh 
+ 1445  nano -T3 palindromes.sh
+ 1446  ./palindromes.sh 
+ 1447  nano -T3 palindromes.sh
+ 1448  ./palindromes.sh 
+ 1449  ./palindromes.sh 121
+ 1450  nano -T3 palindromes.sh
+ 1451  ./palindromes.sh 121
+ 1452  nano -T3 palindromes.sh
+ 1453  ./palindromes.sh 121
+ 1454  nano -T3 palindromes.sh
+ 1455  ./palindromes.sh 121
+ 1456  nano -T3 palindromes.sh
+ 1457  ./palindromes.sh 121
+ 1458  nano -T3 palindromes.sh
+ 1459  exit
+ 1460  nano -T3 palindromes.sh 
+ 1461  cd -
+ 1462  cd ..\
+ 1463  cd ..
+ 1464  ls
+ 1465  cd ProgrammingConc
+ 1466  cd ProgrammingConcepts/
+ 1467  ls
+ 1468  nano -T3 arithmeticOperation.sh 
+ 1469  ./arithmeticOperation.sh 
+ 1470  nano -T3 dictTest.sh 
+ 1471  cd W80/
+ 1472  ls
+ 1473  cd Functions/
+ 1474  ls
+ 1475  nano -T3 palindromes.sh 
+ 1476  ./palindromes.sh 
+ 1477  nano -T3 palindromes.sh 
+ 1478  ./palindromes.sh 
+ 1479  nano -T3 palindromes.sh 
+ 1480  ./palindromes.sh 
+ 1481  nano -T3 palindromes.sh 
+ 1482  ./palindromes.sh 
+ 1483  ls
+ 1484  nano -T3 primePalindrome.sh
+ 1485  chmod +x primePalindrome.sh 
+ 1486  ./primePalindrome.sh 
+ 1487  nano -T3 primePalindrome.sh
+ 1488  nano -T3 temperatureConversion.sh
+ 1489  ls
+ 1490  chmod +x temperatureConversion.sh 
+ 1491  ls
+ 1492  ./temperatureConversion.sh 
+ 1493  cd -
+ 1494  ls
+ 1495  mkdir Arrays
+ 1496  cd Arrays/
+ 1497  nano -T 3 arrayTest.sh
+ 1498  chmod +x arrayTest.sh 
+ 1499  ./arrayTest.sh 
+ 1500  chmod +x arrayTest.sh 
+ 1501  nano -T 3 arrayTest.sh
+ 1502  ./arrayTest.sh 
+ 1503  nano -T 3 arrayTest.sh
+ 1504  ./arrayTest.sh 
+ 1505  nano -T 3 arrayTest.sh
+ 1506  ./arrayTest.sh 
+ 1507  nano -T 3 arrayTest.sh
+ 1508  ./arrayTest.sh 
+ 1509  nano -T 3 arrayTest.sh
+ 1510  nano -T3 empWagesArray.sh
+ 1511  cd -
+ 1512  ls
+ 1513  pwd
+ 1514  cd Functions/
+ 1515  ls
+ 1516  nano -T3 empWagesUsingFunction.sh 
+ 1517  cd -
+ 1518  cd Arrays/
+ 1519  ls
+ 1520  nano -T3 arrayTest.sh 
+ 1521  nano -T3 empWagesArray.sh
+ 1522  cd -
+ 1523  cd Functions/
+ 1524  ls
+ 1525  nano -T3 empWagesUsingFunction.sh 
+ 1526  cd -
+ 1527  cd Arrays/
+ 1528  ls
+ 1529  nano -T3 empWagesArray.sh
+ 1530  cd -
+ 1531  cd Functions/
+ 1532  nano -T3 empWagesUsingFunction.sh 
+ 1533  cd -
+ 1534  cd Arrays/
+ 1535  nano -T3 empWagesArray.sh
+ 1536  chmod +x empWagesArray.sh 
+ 1537  ./empWagesArray.sh 
+ 1538  nano -T3 random10.sh
+ 1539  $((RANDOM%900+100))
+ 1540  nano -T3 random10.sh
+ 1541  chmod +x random10.sh 
+ 1542  ./random10.sh 
+ 1543  nano -T3 random10.sh
+ 1544  ./random10.sh 
+ 1545  nano -T3 random10.sh
+ 1546  ./random10.sh 
+ 1547  nano -T3 random10.sh
+ 1548  ./random10.sh 
+ 1549  nano -T3 random10.sh
+ 1550  ./random10.sh 
+ 1551  nano -T3 random10.sh
+ 1552  ./random10.sh 
+ 1553  nano -T3 random10.sh
+ 1554  ./random10.sh 
+ 1555  nano -T3 random10.sh
+ 1556  ./random10.sh 
+ 1557  nano -T3 random10.sh
+ 1558  ./random10.sh 
+ 1559  nano -T3 random10.sh
+ 1560  ./random10.sh 
+ 1561  nano -T3 random10.sh
+ 1562  ./random10.sh 
+ 1563  nano -T3 random10.sh
+ 1564  ./random10.sh 
+ 1565  nano -T3 random10.sh
+ 1566  ./random10.sh 
+ 1567  nano -T3 random10.sh
+ 1568  ./random10.sh 
+ 1569  nano -T3 random10.sh
+ 1570  ./random10.sh 
+ 1571  nano -T3 random10.sh
+ 1572  ./random10.sh 
+ 1573  nano -T3 random10.sh
+ 1574  nano -T3 repeatedDigit.sh
+ 1575  chmod +x repeatedDigit.sh 
+ 1576  ./repeatedDigit.sh 
+ 1577  nano -T3 repeatedDigit.sh
+ 1578  nano -T3 primeFactor.sh
+ 1579  chmod +x primeFactor.sh 
+ 1580  ./primeFactor.sh 
+ 1581  nano -T3 sortedSmallestAndLargest.sh
+ 1582  chmod +x sortedSmallestAndLargest.sh 
+ 1583  ./sortedSmallestAndLargest.sh 
+ 1584  nano -T3 sortedSmallestAndLargest.sh
+ 1585  ./sortedSmallestAndLargest.sh 
+ 1586  nano -T3 sortedSmallestAndLargest.sh
+ 1587  ./sortedSmallestAndLargest.sh 
+ 1588  ls
+ 1589  clear
+ 1590  cd ..
+ 1591  ls
+ 1592  mkdir
+ 1593  mkdir Dictonaries
+ 1594  cd Dictonaries/
+ 1595  nano -T3 dictTest.sh
+ 1596  ls
+ 1597  nano -T3 rollDice.sh
+ 1598  chmod +x rollDice.sh
+ 1599  ./rollDice.sh 
+ 1600  nano birthCount.sh
+ 1601  chmod +x birthCount.sh 
+ 1602  ./birthCount.sh 
+ 1603  cd ..
+ 1604  ls
+ 1605  cd Arrays/
+ 1606  ls
+ 1607  nano triplets.sh
+ 1608  nano -T3 triplets.sh
+ 1609  chmod +x triplets.sh 
+ 1610  ./triplets.sh 
+ 1611  nano -T3 triplets.sh
+ 1612  ./triplets.sh 
+ 1613  cd -
+ 1614  cd Dictonaries/
+ 1615  ls
+ 1616  nano -T3 dictTest.sh
+ 1617  chmod +x dictTest.sh 
+ 1618  ./dictTest.sh 
+ 1619  cd ..
+ 1620  cd ~
+ 1621  ls
+ 1622  cd Desktop/
+ 1623  cd gitDemo/
+ 1624  ls
+ 1625  cat gitCommand.txt 
+ 1626  history 
+ 1627  cd ~
+ 1628  cd W80/
+ 1629  cd TerminalCommands/
+ 1630  ls
+ 1631  cd temp/
+ 1632  ls
+ 1633  hitory > TerminalCommands15.txt 
+ 1634  exit
+ 1635  cd W80/
+ 1636  ls
+ 1637  cd ~
+ 1638  cd Desktop/
+ 1639  mkdir
+ 1640  mkdir EmployeeWageComputation
+ 1641  cd EmployeeWageComputation/
+ 1642  nano -T3 empWageComputation.sh
+ 1643  git init
+ 1644  git add .
+ 1645  git commit -m "ADDED: "Welcome message added"
+ 1646  git commit -m "ADDED: Welcome message added"
+ 1647  git remote add origin https://github.com/WassiW80/EmployeeWageComputation.git
+ 1648  git push origin master
+ 1649  git branch
+ 1650  git branch CheckingEmployee_PresentOrNot
+ 1651  git branch 
+ 1652  git checkout CheckingEmployee_PresentOrNot 
+ 1653  git branch 
+ 1654  nano -T3 empWageComputation.sh
+ 1655  chmod +x empWageComputation.sh 
+ 1656  ./empWageComputation.sh 
+ 1657  git branch 
+ 1658  git add .
+ 1659  git commit -m "ADDED: Checking Employee is present or absent"
+ 1660  git push origin CheckingEmployee_PresentOrNot 
+ 1661  git branch
+ 1662  git checkout master
+ 1663  git branch
+ 1664  git merge CheckingEmployee_PresentOrNot 
+ 1665  git push origin master
+ 1666  git branch
+ 1667  git branch CheckingEmployee_PresentOrNot 
+ 1668  git checkout CheckingEmployee_PresentOrNot 
+ 1669  git branch
+ 1670  nano -T3 empWageComputation.sh 
+ 1671  git branch
+ 1672  git add .
+ 1673  git commit -m "ADDED: Checking Employee is present or absent"
+ 1674  git push origin CheckingEmployee_PresentOrNot 
+ 1675  git branch
+ 1676  git checkout master 
+ 1677  git branch
+ 1678  git merge CheckingEmployee_PresentOrNot 
+ 1679  git push origin master
+ 1680  git branch 
+ 1681  git branch CheckingEmployee_PresentOrNot 
+ 1682  nano -T3 empWageComputation.sh 
+ 1683  git add .
+ 1684  git commit -m "ADDED: Checking Employee is present or absent"
+ 1685  git push origin CheckingEmployee_PresentOrNot 
+ 1686  nano -T3 empWageComputation.sh 
+ 1687  git add .
+ 1688  git commit -m "ADDED: Checking Employee is present or absent"
+ 1689  git push origin CheckingEmployee_PresentOrNot 
+ 1690  git branch 
+ 1691  git checkout master 
+ 1692  git branch 
+ 1693  git merge CheckingEmployee_PresentOrNot 
+ 1694  git push origin master
+ 1695  git branch
+ 1696  git checkout CheckingEmployee_PresentOrNot 
+ 1697  git branch
+ 1698  nano -T3 empWageComputation.sh 
+ 1699  git add .
+ 1700  git commit -m "ADDED: Checking Employee is present or absent"
+ 1701  git push origin CheckingEmployee_PresentOrNot 
+ 1702  git branch
+ 1703  git checkout master
+ 1704  git branch
+ 1705  git merge CheckingEmployee_PresentOrNot 
+ 1706  git merge master 
+ 1707  git push origin master
+ 1708  git branch
+ 1709  git checkout CheckingEmployee_PresentOrNot 
+ 1710  git branch
+ 1711  nano -T3 empWageComputation.sh 
+ 1712  git branch
+ 1713  git add .
+ 1714  git commit -m "ADDED: Checking Employee is present or absent"
+ 1715  git push origin CheckingEmployee_PresentOrNot 
+ 1716  ./empWageComputation.sh 
+ 1717  git branch 
+ 1718  git checkout master 
+ 1719  git branch 
+ 1720  git merge CheckingEmployee_PresentOrNot 
+ 1721  git merge master
+ 1722  git branch 
+ 1723  git push origin master
+ 1724  ls
+ 1725  rm empWageComputation.sh 
+ 1726  ls
+ 1727  git branch
+ 1728  nano -T3 empWageComputation.sh
+ 1729  cd -
+ 1730  rm -r EmployeeWageComputation/
+ 1731  y
+ 1732  mkdir EmployeeWageComputation
+ 1733  cd EmployeeWageComputation/
+ 1734  ls
+ 1735  nano -T3 empWageComputation.sh
+ 1736  git init
+ 1737  git branch
+ 1738  git branch CheckingEmployee_PresentOrNot
+ 1739  git branch
+ 1740  git add .
+ 1741  git commit -m "ADDED: Welcome message added"
+ 1742  git remote add origin https://github.com/WassiW80/EmployeeWageComputation.git
+ 1743  git push origin master
+ 1744  git branch
+ 1745  git branch CheckingEmployee_PresentOrNot
+ 1746  git branch
+ 1747  git checkout CheckingEmployee_PresentOrNot 
+ 1748  git branch
+ 1749  nano -T3 empWageComputation.sh 
+ 1750  chmod +x empWageComputation.sh 
+ 1751  ./empWageComputation.sh 
+ 1752  nano -T3 empWageComputation.sh 
+ 1753  ./empWageComputation.sh 
+ 1754  nano -T3 empWageComputation.sh 
+ 1755  ./empWageComputation.sh 
+ 1756  git branch 
+ 1757  git add .
+ 1758  git commit -m "ADDED: Checking employee is present or absent"
+ 1759  git push origin CheckingEmployee_PresentOrNot 
+ 1760  git branch
+ 1761  git checkout master
+ 1762  git branch
+ 1763  git merge CheckingEmployee_PresentOrNot 
+ 1764  git push origin master
+ 1765  git branch CalculateDailyEmployeeWage
+ 1766  git branch
+ 1767  git checkout CalculateDailyEmployeeWage 
+ 1768  nano -T3 empWageComputation.sh 
+ 1769  chmod +x empWageComputation.sh 
+ 1770  ./empWageComputation.sh 
+ 1771  nano -T3 empWageComputation.sh 
+ 1772  ./empWageComputation.sh 
+ 1773  git branch
+ 1774  git add .
+ 1775  git commit -m "ADDED: Calculated daily employee wage"
+ 1776  git push origin CalculateDailyEmployeeWage 
+ 1777  git branch
+ 1778  git checkout master
+ 1779  git branch
+ 1780  git merge CalculateDailyEmployeeWage 
+ 1781  git push origin master
+ 1782  git branch AddPartTimeEmployeeAndWage
+ 1783  git branch 
+ 1784  git checkout AddPartTimeEmployeeAndWage 
+ 1785  git branch 
+ 1786  nano -T3 empWageComputation.sh 
+ 1787  ./empWageComputation.sh 
+ 1788  nano -T3 empWageComputation.sh 
+ 1789  ./empWageComputation.sh 
+ 1790  nano -T3 empWageComputation.sh 
+ 1791  ./empWageComputation.sh 
+ 1792  nano -T3 empWageComputation.sh 
+ 1793  ./empWageComputation.sh 
+ 1794  nano -T3 empWageComputation.sh 
+ 1795  ./empWageComputation.sh 
+ 1796  git branch 
+ 1797  git add .
+ 1798  git commit -m "ADDED: Part time calculation is added,REFACTOR: Variables name has changed"
+ 1799  git push origin AddPartTimeEmployeeAndWage 
+ 1800  git checkout master
+ 1801  git branch 
+ 1802  git merge AddPartTimeEmployeeAndWage 
+ 1803  git push origin master 
+ 1804  git branch
+ 1805  git branch SolvingUsingCaseStatement
+ 1806  git checkout SolvingUsingCaseStatement 
+ 1807  git branch
+ 1808  nano -T 3 empWageComputation.sh 
+ 1809  ./empWageComputation.sh 
+ 1810  git branch
+ 1811  git add .
+ 1812  git commit -m "REFACTORED:Converted from if else to case statement"
+ 1813  git push origin SolvingUsingCaseStatement 
+ 1814  git branch
+ 1815  git checkout master
+ 1816  git merge SolvingUsingCaseStatement 
+ 1817  git push origin master
+ 1818  git branch CalculatingWagesForAMonth
+ 1819  git branch
+ 1820  git checkout CalculatingWagesForAMonth 
+ 1821  git branch 
+ 1822  nano -T3 empWageComputation.sh 
+ 1823  ./empWageComputation.sh 
+ 1824  nano -T3 empWageComputation.sh 
+ 1825  ./empWageComputation.sh 
+ 1826  nano -T3 empWageComputation.sh 
+ 1827  ./empWageComputation.sh 
+ 1828  git branch
+ 1829  git add .
+ 1830  git commit -m "ADDED: Calculation of wages for a month is added"
+ 1831  git push origin CalculatingWagesForAMonth 
+ 1832  git branch
+ 1833  git checkout 
+ 1834  git branch
+ 1835  git checkout master
+ 1836  git branch
+ 1837  git merge CalculatingWagesForAMonth 
+ 1838  git push origin master
+ 1839  ./empWageComputation.sh 
+ 1840  git branch
+ 1841  git branch CalculatingEmployeeWageTillCondition
+ 1842  git branch 
+ 1843  git checkout CalculatingEmployeeWageTillCondition 
+ 1844  git branch
+ 1845  nano -T3 em
+ 1846  nano -T3 empWageComputation.sh 
+ 1847  git branch
+ 1848  nano -T3 empWageComputation.sh 
+ 1849  ./empWageComputation.sh 
+ 1850  nano -T3 empWageComputation.sh 
+ 1851  ./empWageComputation.sh 
+ 1852  nano -T3 empWageComputation.sh 
+ 1853  ./empWageComputation.sh 
+ 1854  git branch
+ 1855  git add .
+ 1856  git commit -m "REFACTORED: For loop is changed to while loop"
+ 1857  git push origin CalculatingEmployeeWageTillCondition 
+ 1858  git branch 
+ 1859  git checkout master
+ 1860  git branch 
+ 1861  git merge CalculatingEmployeeWageTillCondition 
+ 1862  git push origin master 
+ 1863  git branch
+ 1864  git branch RefactoredCodeUsingFunction
+ 1865  git branch
+ 1866  git checkout RefactoredCodeUsingFunction 
+ 1867  git branch 
+ 1868  nano -T3 empWageComputation.sh 
+ 1869  git branch 
+ 1870  nano -T3 empWageComputation.sh 
+ 1871  ./empWageComputation.sh 
+ 1872  nano -T3 empWageComputation.sh 
+ 1873  ./empWageComputation.sh 
+ 1874  nano -T3 empWageComputation.sh 
+ 1875  ./empWageComputation.sh 
+ 1876  git add .
+ 1877  git commit -m "REFACTORED: Added a function to get work hours"
+ 1878  git push origin RefactoredCodeUsingFunction 
+ 1879  git branch
+ 1880  git checkout master
+ 1881  git branch 
+ 1882  git merge master
+ 1883  git merge RefactoredCodeUsingFunction 
+ 1884  git push origin master
+ 1885  git branch
+ 1886  git branch StoringDailyWage
+ 1887  git branch
+ 1888  nano -T3 empWageComputation.sh 
+ 1889  ./empWageComputation.sh 
+ 1890  nano -T3 empWageComputation.sh 
+ 1891  ./empWageComputation.sh 
+ 1892  nano -T3 empWageComputation.sh 
+ 1893  ./empWageComputation.sh 
+ 1894  git add .
+ 1895  git commit -m "ADDED: Array is used for storing daily wages"
+ 1896  git branch
+ 1897  git push origin StoringDailyWage 
+ 1898  git branch
+ 1899  nano -T3 empWageComputation.sh 
+ 1900  git push origin StoringDailyWage 
+ 1901  git checkout master
+ 1902  git branch
+ 1903  git merge StoringDailyWage 
+ 1904  git push origin StoringDailyWage 
+ 1905  git branch 
+ 1906  git branch StoringDailyWage 
+ 1907  git checkout StoringDailyWage 
+ 1908  git branch
+ 1909  nano -T3 empWageComputation.sh 
+ 1910  ./empWageComputation.sh 
+ 1911  nano -T3 empWageComputation.sh 
+ 1912  ./empWageComputation.sh 
+ 1913  nano -T3 empWageComputation.sh 
+ 1914  ./empWageComputation.sh 
+ 1915  nano -T3 empWageComputation.sh 
+ 1916  ./empWageComputation.sh 
+ 1917  git branch
+ 1918  git add .
+ 1919  git commit -m "ADDED: Array is used for storing daily wages"
+ 1920  git push origin StoringDailyWage 
+ 1921  git checkout master 
+ 1922  git branch 
+ 1923  git merge StoringDailyWage 
+ 1924  git push origin master
+ 1925  git branch StoreDayAndDailyWageUsingDictionaries
+ 1926  git branch 
+ 1927  git checkout 
+ 1928  git checkout StoreDayAndDailyWageUsingDictionaries 
+ 1929  git branch 
+ 1930  git checkout StoreDayAndDailyWageUsingDictionaries 
+ 1931  git merge StoringDailyWage 
+ 1932  git add empWageComputation.sh 
+ 1933  git checkout StoreDayAndDailyWageUsingDictionaries 
+ 1934  git branch
+ 1935  nano -T3 empWageComputation.sh 
+ 1936  ./empWageComputation.sh 
+ 1937  nano -T3 empWageComputation.sh 
+ 1938  git branch 
+ 1939  git checkout master
+ 1940  git merge StoringDailyWage 
+ 1941  git branch 
+ 1942  git push origin master
+ 1943  git checkout StoreDayAndDailyWageUsingDictionaries 
+ 1944  nano -T3 empWageComputation.sh 
+ 1945  git add .
+ 1946  nano -T3 empWageComputation.sh 
+ 1947  git checkout StoringDailyWage 
+ 1948  nano -T3 empWageComputation.sh 
+ 1949  git add .
+ 1950  git commit -m "REFACTORED: Conflict resolved for merge of file" 
+ 1951  git push origin StoringDailyWage 
+ 1952  git checkout master
+ 1953  git branch 
+ 1954  git merge StoringDailyWage 
+ 1955  git merge StoringDailyWage
+ 1956  git add .
+ 1957  git merge StoringDailyWage
+ 1958  git add .
+ 1959  git commit -m "CONFLICT: Resolved merge conflict by incorporating both suggestions"
+ 1960  git branch
+ 1961  git push origin master
+ 1962  nano -T3 empWageComputation.sh 
+ 1963  ./empWageComputation.sh 
+ 1964  git branch 
+ 1965  git push origin master
+ 1966  git add .
+ 1967  nano -T3 empWageComputation.sh 
+ 1968  git commit -m "CONFLICT: Resolved merge conflict by incorporating both suggestions"
+ 1969  git push origin master
+ 1970  git branch 
+ 1971  git checkout StoreDayAndDailyWageUsingDictionaries 
+ 1972  git branch 
+ 1973  nano -T3 empWageComputation.sh m
+ 1974  nano -T3 empWageComputation.sh 
+ 1975  ,
+ 1976  ./empWageComputation.sh 
+ 1977  nano -T3 empWageComputation.sh 
+ 1978  git add .
+ 1979  git commit -m "ADDED: Dictionary to store day and daily wage"
+ 1980  git push origin StoreDayAndDailyWageUsingDictionaries 
+ 1981  git checkout 
+ 1982  git checkout master
+ 1983  git branch 
+ 1984  git merge StoreDayAndDailyWageUsingDictionaries 
+ 1985  git add .
+ 1986  git merge StoreDayAndDailyWageUsingDictionaries 
+ 1987  nano -T3 empWageComputation.sh 
+ 1988  git add .
+ 1989  git commit -m "CONFLICT: Resolved merge conflict by incorporating both suggestions"
+ 1990  git push origin master
+ 1991  history > empWageComputation.txt
+ 1992  history
+ 1993  ls
+ 1994  cat empWageComputation.txt
+ 1995  exit
+ 1996  ls
+ 1997  cd Desktop/
+ 1998  ls
+ 1999  mkdir SortingArithmeticComputation
+ 2000  ls
+ 2001  cd SortingArithmeticComputation/
+ 2002  ls
+ 2003  clear
+ 2004  cd ..
+ 2005  rm -r SortingArithmeticComputation/
+ 2006  mkdir ArithmeticComputationAndSorting
+ 2007  cd ArithmeticComputationAndSorting/
+ 2008  ls
+ 2009  nano -T3 ArithmeticComputationAndSorting.sh
+ 2010  git add . 
+ 2011  git commit -m "ADDED: An blank sheet is added."
+ 2012  git remote add origin https://github.com/WassiW80/ArithmeticComputationAndSorting.git
+ 2013  git push origin master
+ 2014  nano -T3 ArithmeticComputationAndSorting.sh
+ 2015  git add . 
+ 2016  git commit -m "ADDED: An blank sheet is added."
+ 2017  git remote add origin https://github.com/WassiW80/ArithmeticComputationAndSorting.git
+ 2018  git push origin master
+ 2019  git branch
+ 2020  git push -u origin master
+ 2021  git init
+ 2022  git add . 
+ 2023  git commit -m "ADDED: An blank sheet is added."
+ 2024  git remote add origin https://github.com/WassiW80/ArithmeticComputationAndSorting.git
+ 2025  git push -u origin master
+ 2026  git branch
+ 2027  git branch TakingInputFromUser
+ 2028  git branch 
+ 2029  git checkout TakingInputFromUser 
+ 2030  git branch 
+ 2031  nano -T3 ArithmeticComputationAndSorting.sh
+ 2032  chmod +x ArithmeticComputationAndSorting.sh 
+ 2033  ./ArithmeticComputationAndSorting.sh 
+ 2034  git add . 
+ 2035  git commit -m "ADDED: Taking input from the user."
+ 2036  git push origin TakingInputFromUser 
+ 2037  git branch
+ 2038  git checkout master
+ 2039  git merge TakingInputFromUser 
+ 2040  git push origin master
+ 2041  git branch
+ 2042  git branch Computing_A+B*C
+ 2043  git branch ComputationForEquation_1
+ 2044  git branch 
+ 2045  git checkout ComputationForEquation_1 
+ 2046  git branch 
+ 2047  nano -T3 ArithmeticComputationAndSorting.sh
+ 2048  ./ArithmeticComputationAndSorting.sh 
+ 2049  nano -T3 ArithmeticComputationAndSorting.sh
+ 2050  ./ArithmeticComputationAndSorting.sh 
+ 2051  nano -T3 ArithmeticComputationAndSorting.sh
+ 2052  ./ArithmeticComputationAndSorting.sh 
+ 2053  nano -T3 ArithmeticComputationAndSorting.sh
+ 2054  ./ArithmeticComputationAndSorting.sh 
+ 2055  git add .
+ 2056  git commit -m "ADDED: Computation for equation is added."
+ 2057  git push origin ComputationForEquation_1 
+ 2058  git branch
+ 2059  git checkout master
+ 2060  git branch
+ 2061  git merge ComputationForEquation_1 
+ 2062  git push origin master 
+ 2063  nano -T3 ArithmeticComputationAndSorting.sh
+ 2064  ./ArithmeticComputationAndSorting.sh 
+ 2065  nano -T3 ArithmeticComputationAndSorting.sh
+ 2066  ./ArithmeticComputationAndSorting.sh 
+ 2067  nano -T3 ArithmeticComputationAndSorting.sh
+ 2068  ./ArithmeticComputationAndSorting.sh 
+ 2069  git branch
+ 2070  git checkout ComputationForEquation_1 
+ 2071  nano -T3 ArithmeticComputationAndSorting.sh
+ 2072  ./ArithmeticComputationAndSorting.sh 
+ 2073  git add .
+ 2074  git commit -m "REFACTORED: Logic is changed for calculating decimal value."
+ 2075  git push origin 
+ 2076  git push origin ComputationForEquation_1 
+ 2077  git checkout master
+ 2078  git merge ComputationForEquation_1 
+ 2079  git push origin master
+ 2080  git branch
+ 2081  git branch ComputationForEquation_2 
+ 2082  git checkout ComputationForEquation_2
+ 2083  nano -T3 ArithmeticComputationAndSorting.sh
+ 2084  ./ArithmeticComputationAndSorting.sh 
+ 2085  nano -T3 ArithmeticComputationAndSorting.sh
+ 2086  ./ArithmeticComputationAndSorting.sh 
+ 2087  git branch
+ 2088  git add .
+ 2089  git commit -m "ADDED: added second computation."
+ 2090  git commit -m "ADDED: Added second computation."
+ 2091  git push origin ComputationForEquation_2
+ 2092  git branch 
+ 2093  git checkout master
+ 2094  git branch 
+ 2095  git merge ComputationForEquation_2
+ 2096  git push origin master
+ 2097  git brean
+ 2098  git branch 
+ 2099  git branch ComputationForEquation_3
+ 2100  git checkout ComputationForEquation_3
+ 2101  git brnach
+ 2102  git branch 
+ 2103  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2104  ./ArithmeticComputationAndSorting.sh 
+ 2105  git branch 
+ 2106  git add .
+ 2107  git commit -m "ADDED: Added third computation."
+ 2108  git push origin ComputationForEquation_3
+ 2109  git checkout master
+ 2110  git merge ComputationForEquation_3
+ 2111  git branch
+ 2112  git push origin master
+ 2113  git branch
+ 2114  git branch ComputationForEquation_4
+ 2115  git branch
+ 2116  git checkout ComputationForEquation_4
+ 2117  git branch
+ 2118  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2119  ./ArithmeticComputationAndSorting.sh 
+ 2120  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2121  ./ArithmeticComputationAndSorting.sh 
+ 2122  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2123  ./ArithmeticComputationAndSorting.sh 
+ 2124  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2125  ./ArithmeticComputationAndSorting.sh 
+ 2126  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2127  git branch
+ 2128  git add .
+ 2129  git commit -m "ADDED: Fourth computation"
+ 2130  git push origin ComputationForEquation_4
+ 2131  git branch
+ 2132  git checkout master
+ 2133  git branch 
+ 2134  git merge ComputationForEquation_4
+ 2135  git push origin master
+ 2136  git status
+ 2137  git checkout ComputationForEquation_1
+ 2138  git checkout master 
+ 2139  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2140  ./ArithmeticComputationAndSorting.sh 
+ 2141  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2142  ./ArithmeticComputationAndSorting.sh 
+ 2143  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2144  ./ArithmeticComputationAndSorting.sh 
+ 2145  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2146  ./ArithmeticComputationAndSorting.sh 
+ 2147  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2148  ./ArithmeticComputationAndSorting.sh 
+ 2149  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2150  ./ArithmeticComputationAndSorting.sh 
+ 2151  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2152  ./ArithmeticComputationAndSorting.sh 
+ 2153  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2154  ./ArithmeticComputationAndSorting.sh 
+ 2155  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2156  ./ArithmeticComputationAndSorting.sh 
+ 2157  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2158  ./ArithmeticComputationAndSorting.sh 
+ 2159  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2160  ./ArithmeticComputationAndSorting.sh 
+ 2161  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2162  ./ArithmeticComputationAndSorting.sh 
+ 2163  ./ArithmeticComputationAndSorting.sh
+ 2164  git branch
+ 2165  git checkout ComputationForEquation_4
+ 2166  git branch
+ 2167  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2168  git add .
+ 2169  git commit -m "REFACTORED: Corrected the calculation."
+ 2170  git push origin ComputationForEquation_4
+ 2171  git checkout master
+ 2172  git branch
+ 2173  git merge ComputationForEquation_4
+ 2174  git push master
+ 2175  git push origin master
+ 2176  git branch
+ 2177  git branch StoringResultsInDictionary
+ 2178  git checkout StoringResultsInDictionary 
+ 2179  git branch
+ 2180  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2181  ./ArithmeticComputationAndSorting.sh 
+ 2182  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2183  ./ArithmeticComputationAndSorting.sh 
+ 2184  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2185  git branch 
+ 2186  git add .
+ 2187  git commit -m "ADDED: Dictionary is used to store results."
+ 2188  git push origin StoringResultsInDictionary 
+ 2189  git branch 
+ 2190  git checkout 
+ 2191  git checkout master 
+ 2192  git branch 
+ 2193  git merge StoringResultsInDictionary 
+ 2194  git push origin master
+ 2195  ls 
+ 2196  cd ..
+ 2197  ls
+ 2198  cd EmployeeWageComputation/
+ 2199  ls
+ 2200  cat empWageComputation.txt
+ 2201  cd ..
+ 2202  cd ArithmeticComputationAndSorting/
+ 2203  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2204  git branch 
+ 2205  git branch StoringValueFromDictionaryToArray
+ 2206  git branch 
+ 2207  git checkout StoringValueFromDictionaryToArray 
+ 2208  git branch 
+ 2209  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2210  ./ArithmeticComputationAndSorting.sh 
+ 2211  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2212  ./ArithmeticComputationAndSorting.sh 
+ 2213  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2214  ./ArithmeticComputationAndSorting.sh 
+ 2215  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2216  ./ArithmeticComputationAndSorting.sh 
+ 2217  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2218  ./ArithmeticComputationAndSorting.sh 
+ 2219  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2220  ./ArithmeticComputationAndSorting.sh 
+ 2221  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2222  ./ArithmeticComputationAndSorting.sh 
+ 2223  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2224  ./ArithmeticComputationAndSorting.sh 
+ 2225  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2226  ./ArithmeticComputationAndSorting.sh 
+ 2227  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2228  git branch
+ 2229  git add . 
+ 2230  git commit -m "ADDED: Array is used to store the values of dictionary."
+ 2231  git push origin StoringValueFromDictionaryToArray 
+ 2232  git branch
+ 2233  git checkout master
+ 2234  git branch
+ 2235  git merge StoringValueFromDictionaryToArray 
+ 2236  git push origin master
+ 2237  git branch 
+ 2238  git SortingInDescendingOrder
+ 2239  git branch SortingInDescendingOrder
+ 2240  git branch 
+ 2241  git checkout SortingInDescendingOrder 
+ 2242  git branch 
+ 2243  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2244  ./ArithmeticComputationAndSorting.sh 
+ 2245  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2246  ./ArithmeticComputationAndSorting.sh 
+ 2247  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2248  ./ArithmeticComputationAndSorting.sh 
+ 2249  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2250  ./ArithmeticComputationAndSorting.sh 
+ 2251  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2252  ./ArithmeticComputationAndSorting.sh 
+ 2253  for((i=0;i<3;i++)); do    for((j=i+1;j<4;j++));    do       if [[ ${array[i]%.*} -lt ${array[j]%.*} ]];       then          temp=${array[i]};          array[i]=${array[j]};          array[j]=$temp;       fi;    done; done
+ 2254  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2255  ./ArithmeticComputationAndSorting.sh 
+ 2256  git branch
+ 2257  git add .
+ 2258  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2259  ./ArithmeticComputationAndSorting.sh 
+ 2260  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2261  ./ArithmeticComputationAndSorting.sh 
+ 2262  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2263  ./ArithmeticComputationAndSorting.sh 
+ 2264  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2265  ./ArithmeticComputationAndSorting.sh 
+ 2266  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2267  ./ArithmeticComputationAndSorting.sh 
+ 2268  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2269  ./ArithmeticComputationAndSorting.sh 
+ 2270  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2271  ./ArithmeticComputationAndSorting.sh 
+ 2272  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2273  ./ArithmeticComputationAndSorting.sh 
+ 2274  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2275  ./ArithmeticComputationAndSorting.sh 
+ 2276  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2277  ./ArithmeticComputationAndSorting.sh 
+ 2278  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2279  ./ArithmeticComputationAndSorting.sh 
+ 2280  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2281  ./ArithmeticComputationAndSorting.sh 
+ 2282  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2283  ./ArithmeticComputationAndSorting.sh 
+ 2284  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2285  ./ArithmeticComputationAndSorting.sh 
+ 2286  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2287  ./ArithmeticComputationAndSorting.sh 
+ 2288  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2289  ./ArithmeticComputationAndSorting.sh 
+ 2290  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2291  ./ArithmeticComputationAndSorting.sh 
+ 2292  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2293  ./ArithmeticComputationAndSorting.sh 
+ 2294  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2295  ./ArithmeticComputationAndSorting.sh 
+ 2296  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2297  ./ArithmeticComputationAndSorting.sh 
+ 2298  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2299  ./ArithmeticComputationAndSorting.sh 
+ 2300  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2301  ./ArithmeticComputationAndSorting.sh 
+ 2302  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2303  ./ArithmeticComputationAndSorting.sh 
+ 2304  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2305  ./ArithmeticComputationAndSorting.sh 
+ 2306  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2307  ./ArithmeticComputationAndSorting.sh 
+ 2308  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2309  ./ArithmeticComputationAndSorting.sh 
+ 2310  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2311  ./ArithmeticComputationAndSorting.sh 
+ 2312  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2313  ./ArithmeticComputationAndSorting.sh 
+ 2314  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2315  ./ArithmeticComputationAndSorting.sh 
+ 2316  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2317  ./ArithmeticComputationAndSorting.sh 
+ 2318  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2319  ./ArithmeticComputationAndSorting.sh 
+ 2320  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2321  ./ArithmeticComputationAndSorting.sh 
+ 2322  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2323  ./ArithmeticComputationAndSorting.sh 
+ 2324  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2325  ./ArithmeticComputationAndSorting.sh 
+ 2326  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2327  git branch
+ 2328  git add .
+ 2329  git commit -m "ADDED: Function sorting for descending order."
+ 2330  git push origin SortingInDescendingOrder 
+ 2331  git branch 
+ 2332  git checkout master 
+ 2333  git branch 
+ 2334  git merge SortingInDescendingOrder 
+ 2335  git push origin master 
+ 2336  git branch
+ 2337  git branch SortingInAscendingOrder
+ 2338  git branch 
+ 2339  git checkout 
+ 2340  git checkout SortingInAscendingOrder 
+ 2341  git branch 
+ 2342  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2343  ./ArithmeticComputationAndSorting.sh 
+ 2344  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2345  ./ArithmeticComputationAndSorting.sh 
+ 2346  nano -T3 ArithmeticComputationAndSorting.sh 
+ 2347  ./ArithmeticComputationAndSorting.sh 
+ 2348  git branch
+ 2349  git add .
+ 2350  git commit -m "ADDED: Function sorting for ascending order."
+ 2351  git push origin SortingInAscendingOrder 
+ 2352  git branch 
+ 2353  git checkout master 
+ 2354  git branch 
+ 2355  git merge SortingInAscendingOrder 
+ 2356  git push origin master 
+ 2357  history > ArithmeticComputationAndSorting.txt
